@@ -2,7 +2,7 @@
 
 Authors: Fangwen Shu, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
 
-Main contactor: Fangwen.Shu@dfki.de
+Primary contact: Fangwen.Shu@dfki.de
 
 DFKI - German Research Center for Artificial Intelligence
 
