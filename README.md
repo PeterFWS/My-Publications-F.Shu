@@ -1,6 +1,6 @@
 # SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment
 
-Authors: Fangwen Shu, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
+Authors: **Fangwen Shu**, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
 
 Primary contact: Fangwen.Shu@dfki.de
 
@@ -8,7 +8,7 @@ DFKI - German Research Center for Artificial Intelligence
 
 #
 
-Paper is accepted to IEEE WACV 2021 (coming soon)
+Paper is accepted to **IEEE WACV 2021** (coming soon)
 
 Preprint please see arXiv: https://arxiv.org/abs/2011.01122
 
