@@ -4,6 +4,8 @@ Authors: **Fangwen Shu**, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
 
 Primary contact: Fangwen.Shu@dfki.de
 
+Personal page: https://av.dfki.de/members/fangwenshu/
+
 DFKI - German Research Center for Artificial Intelligence
 
 #
