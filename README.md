@@ -10,7 +10,7 @@ DFKI - German Research Center for Artificial Intelligence
 
 #
 
-Paper is accepted to **IEEE WACV 2021** (http://wacv2021.thecvf.com/)
+Paper is accepted to **IEEE/CVF WACV 2021** (http://wacv2021.thecvf.com/)
 
 Preprint please see arXiv: https://arxiv.org/abs/2011.01122
 
