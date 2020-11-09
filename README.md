@@ -16,7 +16,7 @@ Preprint please see arXiv: https://arxiv.org/abs/2011.01122
 
 # Brief description:
 
-In this work, we present a comprehensive breakdown of mapping state of the art SLAM techniques into the agricultural domain, with particular emphasis on monocular SLAM. The paper received largely positive reviews and should be very easy to reproduce.
+In this work, we present a comprehensive breakdown of mapping state of the art SLAM techniques into the agricultural domain, with particular emphasis on monocular SLAM. The paper received largely positive reviews and it could be the prototype for many field applications.
 
 We hope this work can push the SLAM a little forward on very challenging scenario. If you are interested in our work, please feel free to contact us.
 
