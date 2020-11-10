@@ -14,14 +14,6 @@ Paper is accepted to **IEEE/CVF WACV 2021** (http://wacv2021.thecvf.com/)
 
 Preprint please see arXiv: https://arxiv.org/abs/2011.01122
 
-or
-
-see ResearchGate: https://www.researchgate.net/
-
-or 
-
-see Google Scholar.
-
 # Brief description:
 
 In this work, we present a comprehensive breakdown of mapping state of the art SLAM techniques into the agricultural domain, with particular emphasis on monocular SLAM. The paper received largely positive reviews and it could be the prototype for many field applications.
