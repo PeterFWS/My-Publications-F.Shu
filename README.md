@@ -10,7 +10,7 @@ Paper is accepted to **IEEE/CVF WACV 2021** (http://wacv2021.thecvf.com/)
 
 Preprint please see arXiv: https://arxiv.org/abs/2011.01122
 
-Conference version please see CVF Open Acess: https://openaccess.thecvf.com/WACV2021
+Conference version please see CVF Open Access: https://openaccess.thecvf.com/WACV2021
 
 # Brief description:
 
