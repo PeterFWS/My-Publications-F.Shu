@@ -16,7 +16,7 @@ Conference version please see CVF Open Access: https://openaccess.thecvf.com/WAC
 
 In this work, we present a comprehensive breakdown of mapping state of the art SLAM techniques into the agricultural domain, with particular emphasis on monocular SLAM. The paper received largely positive reviews and it could be a prototype for many applications of field robotics.
 
-We hope this work can push the SLAM a little forward on very challenging scenario. If you are interested in our work, please feel free to cite it.
+We hope this work can push the SLAM a little forward on very challenging scenario. If you think our work is useful, please feel free to cite it.
 
 # Bibtex
 
