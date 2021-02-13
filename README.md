@@ -21,12 +21,11 @@ We hope this work can push the SLAM a little forward on very challenging scenari
 # Bibtex
 
 ```
-@InProceedings{Shu_2021_WACV,
-    author    = {Shu, Fangwen and Lesur, Paul and Xie, Yaxu and Pagani, Alain and Stricker, Didier},
-    title     = {SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {January},
-    year      = {2021},
-    pages     = {1761-1771}
+@inproceedings{shu2021slam,
+  title={SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment},
+  author={Shu, Fangwen and Lesur, Paul and Xie, Yaxu and Pagani, Alain and Stricker, Didier},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1761--1771},
+  year={2021}
 }
 ```
