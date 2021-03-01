@@ -1,7 +1,5 @@
 ## PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN
 
-#
-
 Authors: Yaxu Xie, Jason Rambach, **Fangwen Shu**, Didier Stricker
 
 DFKI - German Research Center for Artificial Intelligence
@@ -11,8 +9,6 @@ Paper is accepted to **IEEE ICRA 2021** (http://www.icra2021.org/)
 Preprint is coming soon.
 
 ## SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment
-
-#
 
 Authors: **Fangwen Shu**, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
 
