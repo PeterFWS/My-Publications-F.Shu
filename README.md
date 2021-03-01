@@ -1,24 +1,28 @@
-# SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment
-
-**Authors**: Fangwen Shu, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
-
-DFKI - German Research Center for Artificial Intelligence
+## PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN
 
 #
 
-Paper is accepted to **IEEE/CVF WACV 2021** (http://wacv2021.thecvf.com/)
+Authors: Yaxu Xie, Jason Rambach, **Fangwen Shu**, Didier Stricker
 
-Preprint please see arXiv: https://arxiv.org/abs/2011.01122
+DFKI - German Research Center for Artificial Intelligence
+
+Paper is accepted to **IEEE ICRA 2021** (http://www.icra2021.org/)
+
+Preprint is coming soon.
+
+## SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment
+
+#
+
+Authors: **Fangwen Shu**, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
+
+DFKI - German Research Center for Artificial Intelligence
+
+Paper is accepted to **IEEE/CVF WACV 2021** (http://wacv2021.thecvf.com/)
 
 Conference version please see CVF Open Access: https://openaccess.thecvf.com/WACV2021
 
-# Brief description:
-
-In this work, we present a comprehensive breakdown of mapping state of the art SLAM techniques into the agricultural domain, with particular emphasis on monocular SLAM. The paper received largely positive reviews and it could be a prototype for many applications of field robotics.
-
-We hope this work can push the SLAM a little forward on very challenging scenario. If you think our work is useful, please feel free to cite it.
-
-# Bibtex
+### Bibtex
 
 ```
 @inproceedings{shu2021slam,
