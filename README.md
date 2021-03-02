@@ -19,7 +19,7 @@ DFKI - German Research Center for Artificial Intelligence
 
 Paper is accepted to **IEEE/CVF WACV 2021** (http://wacv2021.thecvf.com/)
 
-Conference version please see CVF Open Access: https://openaccess.thecvf.com/WACV2021
+Conference version please see CVF Open Access: https://openaccess.thecvf.com/content/WACV2021/papers/Shu_SLAM_in_the_Field_An_Evaluation_of_Monocular_Mapping_and_WACV_2021_paper.pdf
 
 ### Abstract:
 This paper demonstrates a system capable of combining a sparse, indirect, monocular visual SLAM, with both of-fline and real-time Multi-View Stereo (MVS) reconstruction algorithms. This combination overcomes many obstacles encountered by autonomous vehicles or robots employed in agricultural environments, such as overly repetitive patterns , need for very detailed reconstructions, and abrupt movements caused by uneven roads. Furthermore, the use of a monocular SLAM makes our system much easier to integrate with an existing device, as we do not rely on a LiDAR (which is expensive and power consuming), or stereo camera (whose calibration is sensitive to external perturbation e.g. camera being displaced). To the best of our knowledge, this paper presents the first evaluation results for monocular SLAM, and our work further explores unsupervised depth estimation on this specific application scenario by simulating RGB-D SLAM to tackle the scale ambiguity, and shows our approach produces reconstructions that are helpful to various agricultural tasks. Moreover, we highlight that our experiments provide meaningful insight to improve monocular SLAM systems under agricultural settings.
