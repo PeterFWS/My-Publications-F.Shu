@@ -1,4 +1,4 @@
-## PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN
+## [1] PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN
 
 Authors: Yaxu Xie, Jason Rambach, **Fangwen Shu**, Didier Stricker
 
@@ -11,7 +11,7 @@ Preprint is coming soon.
 ### Abstract:
 Instance segmentation of planar regions in indoor scenes benefits visual SLAM and other applications such as augmented reality (AR) where scene understanding is required. Existing methods built upon two-stage frameworks show satisfactory accuracy but are limited by low frame rates. In this work, we propose a real-time deep neural architecture that estimates piece-wise planar regions from a single RGB image. Our model employs a variant of a fast single-stage CNN architecture to segment plane instances. Considering the particularity of the target detected, we propose Fast Feature Non-maximum Suppression (FF-NMS) to reduce the suppression errors resulting by overlapping bounding boxes of planes. We also utilize a Residual Feature Augmentation module in the Feature Pyramid Network (FPN). Our method achieves significantly higher frame-rates and comparable segmentation accuracy against two-stage methods. We automatically label over 70,000 images as ground truth from the Stanford 2D-3D-Semantics dataset. Moreover, we incorporate our method with a state-of-the-art planar SLAM and validate its benefits.
 
-## SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment
+## [2] SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment
 
 Authors: **Fangwen Shu**, Paul Lesur, Yaxu Xie, Alain Pagani, Didier Stricker
 
